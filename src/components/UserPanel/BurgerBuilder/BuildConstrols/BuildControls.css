@@ -1,0 +1,24 @@
+.BuildControls {
+  width: 100%;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+  position: relative;
+}
+
+.Price {
+  margin-bottom: 1rem !important;
+  font-family: "Haymaker";
+}
+
+.Price span {
+  color: #ffa726;
+  font-weight: 600;
+}
+
+.SubmitBurgerBtn {
+  margin-top: 0.6rem;
+}
