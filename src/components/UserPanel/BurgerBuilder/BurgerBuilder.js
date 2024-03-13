@@ -4,7 +4,7 @@ import { compose } from "redux";
 import { connect } from "react-redux";
 
 import Burger from "../Burger/Burger";
-import BuildControls from "./BuildControls/BuildControls";
+import BuildControls from "./BuildConstrols/BuildControls";
 import Spinner from "../../UI/Spinner";
 
 import classes from "./BurgerBuilder.css";
